@@ -10,7 +10,7 @@
 - Technology trends
 - Future applications
 
-![Physical AI System Diagram](/img/physical-ai-system-diagram.svg)
+![Physical AI System Diagram](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80)
 
 The field of Physical AI is rapidly evolving with new technologies and approaches emerging regularly. Understanding these trends helps practitioners stay current and prepare for future developments. Key areas include neuromorphic computing, new sensor technologies, advanced materials, and novel AI approaches.
 

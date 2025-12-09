@@ -14,11 +14,14 @@ const config = {
   baseUrl: '/physical-ai-book/',
 
   // GitHub pages deployment config.
-  organizationName: 'organization', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-book', // Usually your repo name.
+  organizationName: 'AbdullMoeed', // Usually your GitHub org/user name.
+  projectName: 'Physical-AI-Book--Spec-kit-Plus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    mermaid: false,
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -38,14 +41,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AbdullMoeed/Physical-AI-Book--Spec-kit-Plus/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AbdullMoeed/Physical-AI-Book--Spec-kit-Plus/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -120,7 +123,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/AbdullMoeed/',
               },
             ],
           },

@@ -10,7 +10,7 @@
 - Privacy and surveillance
 - Responsible AI practices
 
-![Physical AI System Diagram](/img/physical-ai-system-diagram.svg)
+![Physical AI System Diagram](https://images.unsplash.com/photo-1558346490-a72e53aeabc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80)
 
 As Physical AI systems become more pervasive, ethical considerations become increasingly important. These systems can impact privacy, autonomy, and social structures in profound ways. Understanding and implementing ethical principles is essential for responsible development and deployment of Physical AI technologies.
 

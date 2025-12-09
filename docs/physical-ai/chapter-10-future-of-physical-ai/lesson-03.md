@@ -10,7 +10,7 @@
 - Career pathways
 - Professional practices
 
-![Physical AI System Diagram](/img/physical-ai-system-diagram.svg)
+![Physical AI System Diagram](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80)
 
 The field of Physical AI offers diverse career opportunities across industries including robotics, IoT, smart systems, and automation. Understanding professional practices, continuing education requirements, and career development strategies is essential for success in this rapidly evolving field.
 

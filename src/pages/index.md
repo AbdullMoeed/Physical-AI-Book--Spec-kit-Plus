@@ -35,7 +35,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
       </div>
       <div class="col col--6">
         <img
-          src={useBaseUrl('/img/physical-ai-system-diagram.svg')}
+          src="https://images.unsplash.com/photo-1677442135722-5f11e06a4e6d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80"
           alt="Physical AI System Diagram"
           className={styles.heroImage}
         />
@@ -240,7 +240,7 @@ Welcome to the Physical AI Book - a comprehensive curriculum that bridges artifi
         <p>Additional Resources</p>
       </div>
       <div class="card__footer">
-        <Link to="/docs/appendix/" className="button button--secondary button--block">
+        <Link to="/docs/appendix/hardware-guide" className="button button--secondary button--block">
           View Appendices
         </Link>
       </div>

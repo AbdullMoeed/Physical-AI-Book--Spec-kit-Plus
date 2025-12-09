@@ -1,40 +1,38 @@
 # Physical AI Book
 
-Welcome to the Physical AI Book - a comprehensive curriculum that bridges artificial intelligence and physical computing systems. This book transforms readers from curious beginners to capable practitioners who can create interactive, intelligent physical systems.
+This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
-## About This Book
+## Prerequisites
 
-Physical AI exists to democratize the integration of artificial intelligence with physical computing systems, bridging the gap between digital algorithms and tangible hardware. This book transforms readers from curious beginners to capable practitioners who can create interactive, intelligent physical systems. Positioned at the intersection of AI and IoT, it prepares learners for the future where smart, responsive environments become ubiquitous. The content seamlessly integrates theoretical foundations with hands-on experimentation, ensuring readers develop both conceptual understanding and practical implementation skills through guided projects and real-world applications.
+- Node.js version 18 or higher
+- npm or yarn package manager
 
-## Features
+## Installation
 
-- **Hands-On Learning**: Each chapter contains at least one buildable project demonstrating core concepts
-- **Beginner-Friendly**: Content is comprehensible to readers with minimal technical background
-- **Real-World Applications**: Every tutorial connects to authentic use cases and practical applications
-- **Progressive Complexity**: Skills developed in logical sequence building upon previous knowledge
-- **Comprehensive Documentation**: Each project includes detailed setup guides, troubleshooting sections, and expansion possibilities
+```bash
+npm install
+```
 
-## Table of Contents
+## Local Development
 
-1. Introduction to Physical AI
-2. Sensing the Physical World
-3. Actuation and Control Systems
-4. Machine Learning for Physical Systems
-5. Computer Vision on Physical Devices
-6. Natural Language Processing in Physical AI
-7. Connectivity and Cloud Integration
-8. Advanced Machine Learning
-9. Complex Physical AI Projects
-10. Future of Physical AI
+```bash
+npm start
+```
 
-## Getting Started
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-For detailed setup instructions, please see the full documentation within this book.
+## Build
+
+```bash
+npm run build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Deployment
+
+The site is configured for deployment on Vercel. Simply connect your GitHub repository to Vercel and it will automatically build and deploy when you push changes.
 
 ## Contributing
 
-We welcome contributions from the community! Please read our contributor guidelines for more information.
-
-## License
-
-This project is licensed under the terms specified in the documentation."# Physical-AI-Book--Spec-kit-Plus" 
+Feel free to contribute to this project by submitting issues or pull requests.
