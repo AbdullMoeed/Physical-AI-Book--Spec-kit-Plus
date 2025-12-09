@@ -1,0 +1,27 @@
+.buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.logoImage {
+  max-width: 200px;
+  margin-bottom: 1rem;
+}
+
+.heroImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card__footer {
+  margin-top: auto;
+}

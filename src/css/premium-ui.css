@@ -1,0 +1,86 @@
+/* PremiumUI Component Styles */
+.premium-ui-container {
+  min-height: 100vh;
+  transition: all 0.3s ease;
+}
+
+.premium-ui-card {
+  border-radius: 0.75rem;
+  transition: all 0.3s ease;
+  transform: translateY(0);
+}
+
+.premium-ui-card:hover {
+  transform: translateY(-0.25rem);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.premium-ui-btn {
+  border-radius: 0.5rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.premium-ui-btn:hover {
+  transform: scale(1.03);
+}
+
+.premium-ui-theme-toggle {
+  border-radius: 50%;
+  padding: 0.75rem;
+  transition: all 0.3s ease;
+}
+
+.premium-ui-theme-toggle:hover {
+  background-color: #e5e7eb;
+}
+
+.dark .premium-ui-theme-toggle:hover {
+  background-color: #374151;
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.premium-ui-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.premium-ui-float-delay-1 {
+  animation: float 6s ease-in-out infinite;
+  animation-delay: 0.5s;
+}
+
+/* Dark Mode Specific Styles */
+.dark .premium-ui-card {
+  background-color: #374151;
+}
+
+.dark .premium-ui-card:hover {
+  background-color: #4b5563;
+}
+
+.dark .premium-ui-section {
+  background-color: #1f2937;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .premium-ui-hero-content {
+    text-align: center;
+  }
+  
+  .premium-ui-hero-content > div:first-child {
+    order: 2;
+  }
+  
+  .premium-ui-hero-content > div:last-child {
+    order: 1;
+  }
+}
